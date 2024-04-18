@@ -8,7 +8,7 @@ button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-bloc
     justify-content: space-between;
     width: 100%;
     transform: translateY(50px) translateX(px);
-    height: 80px;
+    height: 40px;
     align-items: center;
     border-radius: 40px;
 }
